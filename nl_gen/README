@@ -1,0 +1,8 @@
+
+# This Folder contains the details for using NL Generation to create sentences out of an input.
+
+
+For the fully trained model
+execute: python download_vocabs_and_trained_params.py ./working_dir
+
+
